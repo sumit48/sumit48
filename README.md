@@ -5,5 +5,5 @@ I'm Sumit Gyawali. I have around one years experience in Network monitoring and 
 
 
 - 👯 I’m looking to collaborate on any ... interesting projects/labs ideas.
-- 📫 How to reach me: Linkedin(sumit-gyawali-793081164) Email: sumitgyawali85@gmail.com
+- 📫 How to reach me: Linkedin(www.linkedin.com/in/sumit-gyawali-793081164) Email: sumitgyawali85@gmail.com
 
