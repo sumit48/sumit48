@@ -1,9 +1,9 @@
-# Welcome to My Cybersecurity Journey 🚀
+# Welcome to My Profile 🚀
 
-👋 Hi, 
-I'm Sumit Gyawali, a cybersecurity enthusiast with around 1 year of experience in network monitoring and troubleshooting support. I’m focused on enhancing my skills in network security and SOC operations. Through platforms like Cisco and TryHackMe, I’ve gained hands-on experience in solving real-world cybersecurity problems and have participated in Capture the Flag (CTF) challenges to further sharpen my skills. I'm committed to continuously learning and improving in the field of cybersecurity.
+👋 Hi,  
+I'm Sumit Gyawali, a cybersecurity enthusiast with around one year of experience in network monitoring and troubleshooting support. I’m focused on enhancing my skills in network security and SOC operations. Through platforms like Cisco and TryHackMe, I’ve gained hands-on experience in solving real-world cybersecurity problems and have participated in Capture the Flag (CTF) challenges to further sharpen my skills. I'm committed to continuously learning and improving in the field of cybersecurity.
 
-## 🚀 Skills
+## 📘 Skills
 
 ```Security Operations Center (SOC)``` ``` Cryptography & Encryption ``` ```Incident Response```
 ```Penetration Testing``` ```Network Security``` ```Threat Hunting``` ```Vulnerability Management```
@@ -11,25 +11,25 @@ I'm Sumit Gyawali, a cybersecurity enthusiast with around 1 year of experience i
 ## 🛠️ Tools & Technologies
 
 ### Cloud & Virtualization
- [![AWS](https://img.shields.io/badge/AWS-0078D7?style=flat&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/)  
- [![VMware](https://img.shields.io/badge/VMware-607078?style=flat&logo=vmware&logoColor=white)](https://www.vmware.com/)  
+ [![AWS](https://img.shields.io/badge/AWS-0078D7?style=flat&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/)
+ [![VMware](https://img.shields.io/badge/VMware-607078?style=flat&logo=vmware&logoColor=white)](https://www.vmware.com/)
  [![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=flat&logo=virtualbox&logoColor=white)](https://www.virtualbox.org/)
 ### Automation & Scripting
- [![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat&logo=powershell&logoColor=white)](https://learn.microsoft.com/en-us/powershell/)  
- [![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white)](https://www.gnu.org/software/bash/)  
+ [![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat&logo=powershell&logoColor=white)](https://learn.microsoft.com/en-us/powershell/)
+ [![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white)](https://www.gnu.org/software/bash/)
  [![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org/)
  ### Cybersecurity Tools 
 ### Threat Detection & Response
- [![Splunk](https://img.shields.io/badge/Splunk-000000?style=flat&logo=splunk&logoColor=white)](https://www.splunk.com/)  
- [![Wazuh](https://img.shields.io/badge/Wazuh-7046A5?style=flat&logo=wazuh&logoColor=white)](https://wazuh.com/)  
- [![ELK Stack](https://img.shields.io/badge/ELK_Stack-005571?style=flat&logo=elastic&logoColor=white)](https://www.elastic.co/elk-stack)  
- [![EDR](https://img.shields.io/badge/EDR-FF4F00?style=flat)](https://example.com/)  
+ [![Splunk](https://img.shields.io/badge/Splunk-000000?style=flat&logo=splunk&logoColor=white)](https://www.splunk.com/)
+ [![Wazuh](https://img.shields.io/badge/Wazuh-7046A5?style=flat&logo=wazuh&logoColor=white)](https://wazuh.com/)
+ [![ELK Stack](https://img.shields.io/badge/ELK_Stack-005571?style=flat&logo=elastic&logoColor=white)](https://www.elastic.co/elk-stack)
+ [![EDR](https://img.shields.io/badge/EDR-FF4F00?style=flat)](https://example.com/)
  [![XDR](https://img.shields.io/badge/XDR-F54291?style=flat)](https://example.com/)
 ### Network Security
- [![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white)](https://www.wireshark.org/)  
- [![TCPDump](https://img.shields.io/badge/TCPDump-4D4D4D?style=flat)](https://www.tcpdump.org/)  
- [![Nmap](https://img.shields.io/badge/Nmap-589636?style=flat&logo=nmap&logoColor=white)](https://nmap.org/)  
- [![Zeek](https://img.shields.io/badge/Zeek-005489?style=flat)](https://zeek.org/)  
+ [![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white)](https://www.wireshark.org/)
+ [![TCPDump](https://img.shields.io/badge/TCPDump-4D4D4D?style=flat)](https://www.tcpdump.org/)
+ [![Nmap](https://img.shields.io/badge/Nmap-589636?style=flat&logo=nmap&logoColor=white)](https://nmap.org/)
+ [![Zeek](https://img.shields.io/badge/Zeek-005489?style=flat)](https://zeek.org/)
  [![Network Analysis](https://img.shields.io/badge/Network_Analysis-FFC107?style=flat)](https://example.com/)
 ### Security Operations
  [![SOAR](https://img.shields.io/badge/SOAR-FF5733?style=flat)](https://example.com/)
@@ -67,6 +67,6 @@ Feel free to reach out:
 
 ## 🌐 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sumit-gyawali/)  
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/sumit48)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sumit-gyawali/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/sumit48)
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-Black?style=flat&logo=tryhackme&logoColor=white)](https://tryhackme.com/r/p/sumitgyawali85)
